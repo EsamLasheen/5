@@ -1,3 +1,8 @@
+# My Project
+
+Here is a video demonstration of the project:
+
+[Watch the video on YouTube](https://youtu.be/oAKFT_yGe9M)
 
 
 
@@ -6,4 +11,12 @@
 
 Here is a video demonstration of the project:
 
-<iframe width="560" height="315" src="https://youtu.be/oAKFT_yGe9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](path/to/thumbnail.jpg)](https://youtu.be/oAKFT_yGe9M)
+
+
+
+# My Project
+
+Here is a video demonstration of the project:
+
+[![Watch the video](https://img.youtube.com/vi/oAKFT_yGe9M/maxresdefault.jpg)](https://youtu.be/oAKFT_yGe9M)
